@@ -32,8 +32,8 @@ Edit
 python main.py
 The script will:
 
-Download the dataset (if not already present)
-Display data types and summary statistics
-Save visualizations (e.g., boxplot_waterfront_price.png and regplot_sqft_above_price.png) in the project folder
-Print model performance (R² scores) for various regression models to the console
+- Download the dataset (if not already present)
+- Display data types and summary statistics
+- Save visualizations (e.g., boxplot_waterfront_price.png and regplot_sqft_above_price.png) in the project folder
+- Print model performance (R² scores) for various regression models to the console
 
